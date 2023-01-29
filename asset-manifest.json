@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practic-REACT-redux/static/css/main.7acaea2f.css",
+    "main.js": "/practic-REACT-redux/static/js/main.e24d5fed.js",
+    "index.html": "/practic-REACT-redux/index.html",
+    "main.7acaea2f.css.map": "/practic-REACT-redux/static/css/main.7acaea2f.css.map",
+    "main.e24d5fed.js.map": "/practic-REACT-redux/static/js/main.e24d5fed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.e24d5fed.js"
+  ]
+}
